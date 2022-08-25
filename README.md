@@ -6,7 +6,7 @@ Login
 POST      /login
 {
   "name": "jose",
-  "password": "123"
+  "password": "root"
 }
 
 Piezas
